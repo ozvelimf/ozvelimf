@@ -60,6 +60,3 @@ I'm enthusiastic about software and self-development as much as possible. I'm tr
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
