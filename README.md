@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-<p>I am Ben Muhammet Furkan ÖZVELİ, someone with a career goal in software development, and I am very open to improving myself in pursuit of this goal. My learning process in software development often involves encountering challenges because my instinct to solve them drives me to research and acquire knowledge. Thanks to my curious nature, I usually enjoy trying things out; during these experiments, I take pleasure in encountering problems and solving them. I would like to be in an environment where I can improve myself and add value.</p>
+<p>I am Muhammet Furkan ÖZVELİ, someone with a career goal in software development, and I am very open to improving myself in pursuit of this goal. My learning process in software development often involves encountering challenges because my instinct to solve them drives me to research and acquire knowledge. Thanks to my curious nature, I usually enjoy trying things out; during these experiments, I take pleasure in encountering problems and solving them. I would like to be in an environment where I can improve myself and add value.</p>
 
 <p>Ben Muhammet Furkan ÖZVELİ, yazılım geliştirme alanında kariyer hedefi olan biriyim ve bu hedef doğrultusunda kendimi geliştirmeye oldukça açığım. Yazılımdaki öğrenme sürecim genellikle sorunlarla karşılaşmayı içerir, çünkü bunları çözme içgüdüm beni araştırmaya ve bilgi edinmeye yönlendiriyor. Meraklı doğam sayesinde genellikle bir şeyler denemekten hoşlanırım; bu denemeler sırasında sorunlarla karşılaşmaktan ve onları çözmekten keyif alıyorum. Kendimi geliştirebileceğim, değer katabileceğim bir ortamda bulunmak isterim.</p> 
   
